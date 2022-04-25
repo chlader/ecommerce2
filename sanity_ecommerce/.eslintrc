@@ -1,0 +1,6 @@
+{
+  "extends": "@sanity/eslint-config-studio",
+  "plugins": [
+    "react-hooks"
+  ]
+}
